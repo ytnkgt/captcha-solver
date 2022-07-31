@@ -1,6 +1,7 @@
 # Solving a simple 5-character captcha using pytorch
 ## Introduction
 Simple 5-character captcha solver resolves very simple CAPTCHA like these:
+
 ![sample1](https://github.com/ytnkgt/captcha-solver/blob/image/sample_data/aj7hc.jpg?raw=true) ![sample2](https://github.com/ytnkgt/captcha-solver/blob/image/sample_data/con3k.jpg?raw=true) ![sample3](https://github.com/ytnkgt/captcha-solver/blob/image/sample_data/ti4am.jpg?raw=true)
 
 My original intention was to automate a web-based request task that I need to do every day, but the task contained a simple text-based CAPTCHA before submitting a request. 
